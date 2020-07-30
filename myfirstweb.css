@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+}
+
+#subhead{
+    font-family: 'Playfair Display', serif;
+    font-weight:500;
+}
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%; 
+    height:auto;
+    text-align: center;
+}
+
+.art-title {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-size: 20px;
+}
+body {
+    background-color: #a1caf1;
+}
